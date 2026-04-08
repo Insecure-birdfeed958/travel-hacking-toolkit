@@ -156,11 +156,16 @@ def inject_cookies(context, path):
 def is_logged_in(page):
     """Check if we're logged into Chase."""
     url = page.url.lower()
-    if "logoff" in url or "logon" in url or "/auth/" in url:
+    if "logoff" in url or "logon" in url:
         return False
+    # /auth/dashboard is logged in; /auth/logon is not
+    if "/auth/" in url and "dashboard" not in url:
+        return False
+    if "dashboard" in url:
+        return True
     if "account-selector" in url:
         return True
-    if "ultimaterewardspoints.chase.com/travel" in url:
+    if "ultimaterewardspoints.chase.com" in url:
         return True
     if "accounts.chase.com" in url:
         return True
